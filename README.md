@@ -11,12 +11,12 @@ The main goal of this internship project is to collect and analyze energy consum
 - tensorflow
 ## How to Run
 
-1. Clone the repository
-```bash
+1.Clone the repository
+ ```bash
 git clone https://github.com/mghyly20/internship-project-2025.git
 cd internship-project-2025
 ```
 2.Install dependencies
-```bash
+ ```bash
 pip install -r requirements.txt
 jupyter notebook
