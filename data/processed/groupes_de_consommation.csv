@@ -1,0 +1,10 @@
+description,id,name,type
+Meteringpoints that either have NACE Code XX (Household) or a combination of NACE Code 68.201 (House cooperative) and Consumption Code 35 (Households),household,Household,consumption-groups
+Cabins and vacation homes nace XY,cabin,Cabins and holiday properties,consumption-groups
+"All agriculture, forestry, fishing incl green houses, Division code 1-3 + Y",primary,Primary Industry,consumption-groups
+All industry section codes B through F,secondary,Secondary Industry,consumption-groups
+All section codes G through U. Also includes all consumption that has incorrect or missing NACE Code.,tertiary,Tertiary Industry,consumption-groups
+Combination of Primary and Secondary Industry,industry,Industry,consumption-groups
+Combination of Household and Cabin,private,Private,consumption-groups
+Same as Tertiary Industry,business,Business,consumption-groups
+*,*,*,consumption-groups
